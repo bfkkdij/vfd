@@ -1,0 +1,12 @@
+{
+  "name": "weather-api-widget",
+  "version": "1.0.0",
+  "description": "Simple weather widget API data provider",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
